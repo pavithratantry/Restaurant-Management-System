@@ -1,0 +1,82 @@
+.nav_carousel img
+{
+    height: 60vh;
+}
+
+#tabs ul li a:hover{
+    color: white;
+    background-color: rgb(21, 168, 226);
+}
+
+#main-site h5 {
+    display: flex;
+    justify-content: space-between;
+   
+  }
+
+.carousel-control-prev {
+    top: 30%;
+    bottom: 30%;
+  }
+
+.carousel-control-next {
+  top: 30%;
+  bottom: 30%;
+}
+
+img{display: flex;
+  display: block;
+margin: 0 auto;
+height: 10em;
+}
+
+
+ 
+.info{
+  background:#f4f8fc;
+  padding:2rem 4rem;;
+  border-radius:12px; 
+  max-width:600px;
+  margin:0 auto;
+}
+
+table{
+  margin:0 auto;
+}
+
+#orderconfirmation{
+    text-align:center;
+    margin: 1%;
+}
+
+.section{
+  margin:2rem 2rem 0;
+  
+}
+
+.section h3{
+  margin-bottom:1rem;
+}
+
+.grid{
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  max-width:800px;
+  grid-row-gap:1.5rem;
+  margin: 0 auto;
+}
+
+
+.grid li{
+  display:flex;
+  flex-direction:column;
+}
+.success-animation { margin:150px auto;}
+
+
+
+#orderconfirmation img{display: flex;
+display: block;
+margin: 0 auto;
+height: 10em;
+}
